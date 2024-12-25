@@ -10,10 +10,10 @@ Search any coin from the data of 700+ crypto coins fetched directly from the coi
 1H, 4H, 1W, 1M chart of every crypto coin using tradingview api.
 
 #Libraries Used <br>
-Smooth Bar.
-LiveData + ViewModel.
-Retrofit + GSON.
-RoomDB.
-Lottiefiles.
-SpinKit.
-SQLlite.
+Smooth Bar <br>
+LiveData + ViewModel <br>
+Retrofit + GSON  <br>
+RoomDB  <br>
+Lottiefiles <br>
+SpinKit <br>
+SQLlite <br>
