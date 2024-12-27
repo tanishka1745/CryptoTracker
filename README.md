@@ -10,6 +10,10 @@ Search any coin from the data of 700+ crypto coins fetched directly from the coi
 1H, 4H, 1W, 1M chart of every crypto coin using tradingview api.
 
 
+# Demo
+https://www.youtube.com/shorts/HUKuzvNZMNE
+
+
 
 # ScreenShorts
 ![WhatsApp Image 2024-12-27 at 6 50 32 PM](https://github.com/user-attachments/assets/babc13ab-0354-4484-9c41-7589dc629110)
