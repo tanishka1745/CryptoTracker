@@ -9,6 +9,14 @@ Users can manage his watchlist of crypto coins by adding and removing from watch
 Search any coin from the data of 700+ crypto coins fetched directly from the coinmarketcap api.
 1H, 4H, 1W, 1M chart of every crypto coin using tradingview api.
 
+
+
+# ScreenShorts
+![WhatsApp Image 2024-12-27 at 6 50 32 PM](https://github.com/user-attachments/assets/babc13ab-0354-4484-9c41-7589dc629110)
+![WhatsApp Image 2024-12-27 at 6 50 33 PM](https://github.com/user-attachments/assets/3080bee6-b2a2-4974-8872-b5924c5032a2)
+
+
+
 #Libraries Used <br>
 Smooth Bar <br>
 LiveData + ViewModel <br>
